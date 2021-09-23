@@ -6,4 +6,4 @@ In questo repository sono presenti gli esercizi di Informatica - Teoria 5^B
 
 # Argomenti svolti:
 
-- node.js
+- SQL e query SQL su Visual Studio tramite connessioni al DB
