@@ -1,0 +1,13 @@
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\bin\Debug\netcoreapp3.1\04-Musei.exe
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\bin\Debug\netcoreapp3.1\04-Musei.deps.json
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\bin\Debug\netcoreapp3.1\04-Musei.runtimeconfig.json
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\bin\Debug\netcoreapp3.1\04-Musei.runtimeconfig.dev.json
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\bin\Debug\netcoreapp3.1\04-Musei.dll
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\bin\Debug\netcoreapp3.1\04-Musei.pdb
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\obj\Debug\netcoreapp3.1\04-Musei.csprojAssemblyReference.cache
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\obj\Debug\netcoreapp3.1\04-Musei.AssemblyInfoInputs.cache
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\obj\Debug\netcoreapp3.1\04-Musei.AssemblyInfo.cs
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\obj\Debug\netcoreapp3.1\04-Musei.csproj.CoreCompileInputs.cache
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\obj\Debug\netcoreapp3.1\04-Musei.dll
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\obj\Debug\netcoreapp3.1\04-Musei.pdb
+C:\Users\gsalt\Desktop\info-playground\04-Musei\04-Musei\obj\Debug\netcoreapp3.1\04-Musei.genruntimeconfig.cache

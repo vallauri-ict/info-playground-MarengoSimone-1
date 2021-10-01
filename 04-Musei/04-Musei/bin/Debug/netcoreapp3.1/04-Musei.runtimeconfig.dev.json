@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gsalt\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gsalt\\.nuget\\packages"
+    ]
+  }
+}
