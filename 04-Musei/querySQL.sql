@@ -66,3 +66,9 @@ FROM Opere o, Artisti a
 WHERE o.NomeA = a.NomeA
 GROUP BY a.Nazionalita, o.NomeMuseo
 ORDER BY o.NomeMuseo
+
+UPDATE Artisti
+SET Nazionalita = 'ESP'
+WHERE NomeA = 'Picasso'
+
+DELETE FROM Artisti WHERE NomeA = 'Pol'
