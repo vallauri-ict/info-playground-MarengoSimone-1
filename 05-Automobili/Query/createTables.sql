@@ -10,19 +10,19 @@
 );
 
 CREATE TABLE Proprietari(
-	CodF int PRIMARY KEY IDENTITY(1,1),
+	CodF int PRIMARY KEY IDENTITY(1,1) NOT NULL,
 	Nome varchar(30) NOT NULL,
 	Residenza varchar(50) NOT NULL
 );
 
 CREATE TABLE Assicurazioni(
-	CodAss int PRIMARY KEY IDENTITY(1,1),
+	CodAss int PRIMARY KEY IDENTITY(1,1) NOT NULL,
 	Nome varchar(30) NOT NULL,
 	Sede varchar(30) NOT NULL
 );
 
 CREATE TABLE Sinistro(
-	CodS int PRIMARY KEY IDENTITY(1,1),
+	CodS int PRIMARY KEY IDENTITY(1,1) NOT NULL,
 	Localita varchar(50) NOT NULL,
 	DataSinistro date NOT NULL
 );
