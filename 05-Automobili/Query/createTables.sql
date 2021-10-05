@@ -1,4 +1,6 @@
-﻿CREATE TABLE Automobile(
+﻿/* CREAZIONE DELLE TABELLE */
+
+CREATE TABLE Automobile(
 	Targa varchar(7) PRIMARY KEY NOT NULL,
 	Marca varchar(20) NOT NULL,
 	Cilindrata int NOT NULL,
