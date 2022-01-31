@@ -1,6 +1,6 @@
 ﻿CREATE TRIGGER [dbo].[DeleteDriver]
     ON [dbo].[Driver]
-    INSTEAD OF DELETE
+    AFTER DELETE
     AS
     BEGIN
         --SET NoCount ON
@@ -18,5 +18,5 @@
 		SET  @team_id = (SELECT team_id from deleted)
 		SET  @podiums_number  = (SELECT podiums_number from deleted)
 
-		INSERT INTO StoricoCancellazioni VALUES(@number,@full_name,@country,@date_birth,@team_id,@podiums_number)
+		INSERT INTO StoricoCancellazioni VALUES(@number,@full_name,@country,@date_birth,@team_id,@podiums_number,GETDATE());
     END
