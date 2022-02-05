@@ -1,0 +1,10 @@
+C:\Users\gsalt\Desktop\info-playground\10-Trigger Storico\10-Trigger Storico\bin\Debug\10-Trigger Storico.exe.config
+C:\Users\gsalt\Desktop\info-playground\10-Trigger Storico\10-Trigger Storico\bin\Debug\10-Trigger Storico.exe
+C:\Users\gsalt\Desktop\info-playground\10-Trigger Storico\10-Trigger Storico\bin\Debug\10-Trigger Storico.pdb
+C:\Users\gsalt\Desktop\info-playground\10-Trigger Storico\10-Trigger Storico\obj\Debug\10-Trigger Storico.csprojAssemblyReference.cache
+C:\Users\gsalt\Desktop\info-playground\10-Trigger Storico\10-Trigger Storico\obj\Debug\_10_Trigger_Storico.Form1.resources
+C:\Users\gsalt\Desktop\info-playground\10-Trigger Storico\10-Trigger Storico\obj\Debug\_10_Trigger_Storico.Properties.Resources.resources
+C:\Users\gsalt\Desktop\info-playground\10-Trigger Storico\10-Trigger Storico\obj\Debug\10-Trigger Storico.csproj.GenerateResource.cache
+C:\Users\gsalt\Desktop\info-playground\10-Trigger Storico\10-Trigger Storico\obj\Debug\10-Trigger Storico.csproj.CoreCompileInputs.cache
+C:\Users\gsalt\Desktop\info-playground\10-Trigger Storico\10-Trigger Storico\obj\Debug\10-Trigger Storico.exe
+C:\Users\gsalt\Desktop\info-playground\10-Trigger Storico\10-Trigger Storico\obj\Debug\10-Trigger Storico.pdb
