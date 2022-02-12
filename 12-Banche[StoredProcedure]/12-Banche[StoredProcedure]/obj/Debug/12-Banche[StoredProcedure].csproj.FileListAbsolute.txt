@@ -1,0 +1,10 @@
+C:\Users\gsalt\Desktop\info-playground\12-Banche[StoredProcedure]\12-Banche[StoredProcedure]\bin\Debug\12-Banche[StoredProcedure].exe.config
+C:\Users\gsalt\Desktop\info-playground\12-Banche[StoredProcedure]\12-Banche[StoredProcedure]\bin\Debug\12-Banche[StoredProcedure].exe
+C:\Users\gsalt\Desktop\info-playground\12-Banche[StoredProcedure]\12-Banche[StoredProcedure]\bin\Debug\12-Banche[StoredProcedure].pdb
+C:\Users\gsalt\Desktop\info-playground\12-Banche[StoredProcedure]\12-Banche[StoredProcedure]\obj\Debug\12-Banche[StoredProcedure].csprojAssemblyReference.cache
+C:\Users\gsalt\Desktop\info-playground\12-Banche[StoredProcedure]\12-Banche[StoredProcedure]\obj\Debug\_12_Banche_StoredProcedure_.Form1.resources
+C:\Users\gsalt\Desktop\info-playground\12-Banche[StoredProcedure]\12-Banche[StoredProcedure]\obj\Debug\_12_Banche_StoredProcedure_.Properties.Resources.resources
+C:\Users\gsalt\Desktop\info-playground\12-Banche[StoredProcedure]\12-Banche[StoredProcedure]\obj\Debug\12-Banche[StoredProcedure].csproj.GenerateResource.cache
+C:\Users\gsalt\Desktop\info-playground\12-Banche[StoredProcedure]\12-Banche[StoredProcedure]\obj\Debug\12-Banche[StoredProcedure].csproj.CoreCompileInputs.cache
+C:\Users\gsalt\Desktop\info-playground\12-Banche[StoredProcedure]\12-Banche[StoredProcedure]\obj\Debug\12-Banche[StoredProcedure].exe
+C:\Users\gsalt\Desktop\info-playground\12-Banche[StoredProcedure]\12-Banche[StoredProcedure]\obj\Debug\12-Banche[StoredProcedure].pdb
