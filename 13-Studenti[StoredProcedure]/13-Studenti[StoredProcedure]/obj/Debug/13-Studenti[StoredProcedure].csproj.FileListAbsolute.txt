@@ -1,0 +1,10 @@
+C:\Users\gsalt\Desktop\info-playground\13-Studenti[StoredProcedure]\13-Studenti[StoredProcedure]\bin\Debug\13-Studenti[StoredProcedure].exe.config
+C:\Users\gsalt\Desktop\info-playground\13-Studenti[StoredProcedure]\13-Studenti[StoredProcedure]\bin\Debug\13-Studenti[StoredProcedure].exe
+C:\Users\gsalt\Desktop\info-playground\13-Studenti[StoredProcedure]\13-Studenti[StoredProcedure]\bin\Debug\13-Studenti[StoredProcedure].pdb
+C:\Users\gsalt\Desktop\info-playground\13-Studenti[StoredProcedure]\13-Studenti[StoredProcedure]\obj\Debug\13-Studenti[StoredProcedure].csprojAssemblyReference.cache
+C:\Users\gsalt\Desktop\info-playground\13-Studenti[StoredProcedure]\13-Studenti[StoredProcedure]\obj\Debug\_13_Studenti_StoredProcedure_.Form1.resources
+C:\Users\gsalt\Desktop\info-playground\13-Studenti[StoredProcedure]\13-Studenti[StoredProcedure]\obj\Debug\_13_Studenti_StoredProcedure_.Properties.Resources.resources
+C:\Users\gsalt\Desktop\info-playground\13-Studenti[StoredProcedure]\13-Studenti[StoredProcedure]\obj\Debug\13-Studenti[StoredProcedure].csproj.GenerateResource.cache
+C:\Users\gsalt\Desktop\info-playground\13-Studenti[StoredProcedure]\13-Studenti[StoredProcedure]\obj\Debug\13-Studenti[StoredProcedure].csproj.CoreCompileInputs.cache
+C:\Users\gsalt\Desktop\info-playground\13-Studenti[StoredProcedure]\13-Studenti[StoredProcedure]\obj\Debug\13-Studenti[StoredProcedure].exe
+C:\Users\gsalt\Desktop\info-playground\13-Studenti[StoredProcedure]\13-Studenti[StoredProcedure]\obj\Debug\13-Studenti[StoredProcedure].pdb
